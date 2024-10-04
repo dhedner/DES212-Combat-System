@@ -1,0 +1,7 @@
+AI TYPE,CATEGORY,ENEMIES,WINS,LOSSES,RATING,WIN%,DPS,ROUND LENGTH,ForbiddenTruth,RayOfClarity,EldritchWhisper,ArcaneEnlightenment,RitualOfReason,CullTheIgnorant
+Random,Melee,1xAbyssalGrunt,1,0,100,100,0.6,7.7,0,0.2,0.2,0.2,0.2,0.2
+Random,Melee,3xAbyssalGrunt,1,0,100,100,3.5,9.8,0.3,0.2,0.1,0.2,0.1,0
+Random,Mixed,2xAbyssalGrunt/1xAbyssalBrute,1,0,100,100,6.2,18.5,0.4,0.2,0.1,0.2,0.1,0.1
+Smart,Melee,1xAbyssalGrunt,1,0,100,100,2,5,0,0.2,0.1,0.2,0.2,0.1
+Smart,Melee,3xAbyssalGrunt,1,0,100,100,2.8,9.5,0.3,0.2,0.2,0.2,0.2,0.1
+Smart,Mixed,2xAbyssalGrunt/1xAbyssalBrute,1,0,100,100,6.2,18.7,0.4,0.2,0.1,0.1,0.1,0
